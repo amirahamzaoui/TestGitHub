@@ -20,7 +20,4 @@ class Jobseeker (models.Model):
     adresse = models.CharField(max_length=200)
     code_postal = models.IntegerField()
     telephone = models.CharField(max_length=8)
-    msg_instantanne = models.CharField(max_length = 200)
-    permis_conduire = models.BooleanField(default = "False")
-    titulaire_voitre = models.BooleanField(default = "False")
-    avoir_handicap =  models.BooleanField(default = "False")
+    
