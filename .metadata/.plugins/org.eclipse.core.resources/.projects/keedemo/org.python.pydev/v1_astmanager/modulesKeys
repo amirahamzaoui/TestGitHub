@@ -1,0 +1,13 @@
+MODULES_MANAGER_V2
+jobseeker.__init__|/home/amira/projects/TestGitHub/keedemo/jobseeker/__init__.py
+jobseeker.admin|/home/amira/projects/TestGitHub/keedemo/jobseeker/admin.py
+jobseeker.migrations.0001_initial|/home/amira/projects/TestGitHub/keedemo/jobseeker/migrations/0001_initial.py
+jobseeker.migrations.__init__|/home/amira/projects/TestGitHub/keedemo/jobseeker/migrations/__init__.py
+jobseeker.models|/home/amira/projects/TestGitHub/keedemo/jobseeker/models.py
+jobseeker.tests|/home/amira/projects/TestGitHub/keedemo/jobseeker/tests.py
+jobseeker.views|/home/amira/projects/TestGitHub/keedemo/jobseeker/views.py
+keedemo.__init__|/home/amira/projects/TestGitHub/keedemo/keedemo/__init__.py
+keedemo.settings|/home/amira/projects/TestGitHub/keedemo/keedemo/settings.py
+keedemo.urls|/home/amira/projects/TestGitHub/keedemo/keedemo/urls.py
+keedemo.wsgi|/home/amira/projects/TestGitHub/keedemo/keedemo/wsgi.py
+manage|/home/amira/projects/TestGitHub/keedemo/manage.py

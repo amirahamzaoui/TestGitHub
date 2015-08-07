@@ -1,0 +1,65 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/amira/projects/TestGitHub/.metadata/.plugins/org.eclipse.core.resources/.projects/keedemo/com.python.pydev.analysis/v2_indexcache
+jobseeker.migrations.0001_initial|1438942853285157000|/home/amira/projects/TestGitHub/keedemo/jobseeker/migrations/0001_initial.py
+jobseeker.tests|1438938853737894000|/home/amira/projects/TestGitHub/keedemo/jobseeker/tests.py
+keedemo.urls|1438937994258185000|/home/amira/projects/TestGitHub/keedemo/keedemo/urls.py
+jobseeker.__init__|1438938853737894000|/home/amira/projects/TestGitHub/keedemo/jobseeker/__init__.py
+jobseeker.views|1438938853737894000|/home/amira/projects/TestGitHub/keedemo/jobseeker/views.py
+jobseeker.migrations.__init__|1438938853738894000|/home/amira/projects/TestGitHub/keedemo/jobseeker/migrations/__init__.py
+keedemo.settings|1438942522802477000|/home/amira/projects/TestGitHub/keedemo/keedemo/settings.py
+jobseeker.models|1438951208512623000|/home/amira/projects/TestGitHub/keedemo/jobseeker/models.py
+jobseeker.admin|1438945304296879000|/home/amira/projects/TestGitHub/keedemo/jobseeker/admin.py
+keedemo.wsgi|1438937994258185000|/home/amira/projects/TestGitHub/keedemo/keedemo/wsgi.py
+keedemo.__init__|1438937994258185000|/home/amira/projects/TestGitHub/keedemo/keedemo/__init__.py
+manage|1438937994258185000|/home/amira/projects/TestGitHub/keedemo/manage.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+4=jobseeker.migrations.0001_initial
+5=keedemo.urls
+7=Migration
+1=keedemo.settings
+3=jobseeker.models
+2=keedemo.wsgi
+6=Jobseeker
+-- END DICTIONARY
+-- START TREE 1
+18
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+job|1|Jobseeker!25@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+mig|1|Migration!33@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!43@
+use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+15
+adr|1|adresse!6&27@
+avo|1|avoir_handicap!6&27@
+cod|1|code_postal!6&27@
+dat|1|date_naissance!6&27@
+dep|1|dependencies!7&35@
+eta|2|ETAT_CIVIL_CHOICES!6&27@etat_civil!6&27@
+msg|1|msg_instantanne!6&27@
+nat|1|nationalite!6&27@
+nom|1|nom!6&27@
+ope|1|operations!7&35@
+per|1|permis_conduire!6&27@
+pre|1|prenom!6&27@
+sex|2|SEXE_GENDER!6&27@sexe!6&27@
+tel|1|telephone!6&27@
+tit|1|titulaire_voitre!6&27@
+-- END TREE
