@@ -1,0 +1,14 @@
+INSTUPjobseeker.models
+/home/amira/projects/TestGitHub/keedemo/jobseeker/models.py
+INFOS:&&1|1|2|0&&3|3|2|1&&3|4|2|1&&3|5|2|1&&3|6|2|1&&3|7|2|1&&3|8|2|1&&3|9|2|1&&3|10|2|1&&3|11|2|1
+SEXE_GENDER=3
+nationalite=10
+etat_civil=9
+jobseeker.models=2
+adresse=11
+sexe=7
+Jobseeker=1
+prenom=5
+nom=6
+ETAT_CIVIL_CHOICES=4
+date_naissance=8
